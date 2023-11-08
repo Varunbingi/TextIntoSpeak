@@ -1,0 +1,28 @@
+
+        body{
+            padding: 0;
+            margin: 0;
+            width: 100%;
+            background-color: rgb(7, 74, 52);
+            color: aliceblue;
+            display: flex;
+            justify-content: center;
+        }
+        .conatiner{
+            display:flex;
+            flex-direction: column;
+        }
+        .innerDiv{
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+        }
+        #speak{
+            background: rgb(1, 186, 248);
+            border-radius: 10px;
+            font-weight: bold;
+            color: black;
+            padding: 10px;
+        }
+        
+    
